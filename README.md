@@ -1,6 +1,8 @@
 # Pen & Paper Wordle
 An analogue version of the popular Wordle game
 
+Simply print out the ODT file on paper.
+
 You need: pen, green highlighter, yellow highlighter.
 
 In case someone doesn't know the analogue rules yet:
