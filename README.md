@@ -3,6 +3,9 @@ An analogue version of the popular Wordle game
 
 Simply print out the ODT file on paper.
 
+![image](https://user-images.githubusercontent.com/1202113/152739526-36ebf84c-d6b5-44d4-9e20-e5de60b73276.png)
+
+
 You need: pen, green highlighter, yellow highlighter.
 
 In case someone doesn't know the analogue rules yet:
